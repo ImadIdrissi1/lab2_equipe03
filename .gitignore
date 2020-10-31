@@ -1,0 +1,6 @@
+.idea/
+out/
+test/ 
+src/META-INF
+remise lab2/
+*.iml
